@@ -1,0 +1,11 @@
+.titulo{
+
+	-fx-font-weight: bold;
+	-fx-font-size: 20px;
+}
+.titulo3{
+	-fx-font-style:italic;
+	-fx-font-family: "Abel";
+	-fx-font-size: 14px;
+	
+}
