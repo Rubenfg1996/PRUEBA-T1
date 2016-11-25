@@ -16,7 +16,6 @@ import javafx.stage.Stage;
  * @see vista/ControlFX
  *
  */
-
 public class MainFX extends Application{
 		private Stage primaryStage;
 	    private AnchorPane rootLayout;
